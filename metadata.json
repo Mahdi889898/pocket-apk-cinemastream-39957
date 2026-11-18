@@ -1,0 +1,6 @@
+{
+  "name": "سینما استریم",
+  "description": "پخش و مدیریت فیلم‌ها، کانال‌های زنده و وب‌سایت‌های ویدیویی با پلیر پیشرفته و همگام‌سازی ابری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
